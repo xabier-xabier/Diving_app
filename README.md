@@ -16,6 +16,7 @@ I created a Schema called diving in MySql.
 You can directly upload it using the diving_data file provided.
 In this table the following data is provided:
 
+
 1)Id number based on the rank points.
 
 2)The name of each place
@@ -35,6 +36,7 @@ In this table the following data is provided:
 9)Info to know if the place it`s in the ocean or lake.
 
 
+
 This app will request at the begining info about the month when the user would like to go diving, the continent of preference and a user name.
 If the user name doesn`t exist will create a new table with the user name in MySql to store data for further post processing.
 
@@ -44,6 +46,7 @@ Once the new table it`s created it willbe reordered based on the points calculat
 
 Once the list is displayed the user will be able to choose any option from the list.
 Once the user chooses a place the following data will be displayed:
+
 
 1)webpage of that diving place 
 
@@ -58,5 +61,6 @@ Once the user chooses a place the following data will be displayed:
 6)Cloudcover % for the chosen month (last year)
 
 7)Windspeed (km/h) for the chosen month (last year)
+
 
 The user can choose another option from the list or just end the program by closing the window or selecting "cancel".
