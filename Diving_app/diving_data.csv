@@ -1,0 +1,100 @@
+id,Name,Continent,Country,web,rank_points,latitude,longitude,Wave_data
+1,"Barracuda point",Asia,Malaysia,https://www.sipadan.com/Sipadan/Barracuda-Point.php,100,4.12275,118.631,Yes
+2,"Blue Corner Wall",Oceania,Micronesia,https://www.dive-the-world.com/diving-sites-palau-blue-corner.php,99,7.13361,134.22,Yes
+3,Yongala,Oceania,Australia,https://www.yongaladive.com.au/,99,-19.3792,147.675,Yes
+4,Thistlegorm,Africa,Egypt,https://www.zubludiving.com/articles/zublu-insights/diving-egypts-thistlegorm-wreck,99,27.8137,33.9208,Yes
+5,"Shark and Yolanda Reef",Africa,Egypt,https://prodivetravel.co.za/news/why-you-should-dive-shark-and-yolanda-reef/,98,27.7252,34.2589,Yes
+6,"Manta Ray night dive",Oceania,USA,https://www.mantaraydiveshawaii.com/,98,19.6691,-156.04,Yes
+7,"Great Blue hole",America,Belize,https://blog.padi.com/blue-hole-belize-scuba-diving/,98,17.3161,-87.5348,Yes
+8,"Liberty, Bali",Asia,Indonesia,https://letsdivetulamben.com/,98,-8.2784,115.611,Yes
+9,"Navy Pier",Oceania,Australia,https://www.diveningaloo.com.au/book-exmouth-navy-pier-single-dive/,98,-21.8699,114.216,Yes
+10,"Richelieu Rock",Asia,Thailand,https://www.sunrise-divers.com/dive-sites/richelieu-rock/,98,9.36428,98.0229,Yes
+11,"Elphinstone Reef",Africa,Egypt,https://www.dive-the-world.com/diving-sites-egypt-elphinstone.php,97,25.3,34.8332,Yes
+12,Tubbataha,Asia,Philippines,https://www.bluewaterdivetravel.com/tubbataha-reef-diving,97,8.85179,119.934,Yes
+13,"President Coolidge",Oceania,Vanuatu,https://allwaysdive.com.au/diving-destinations/vanuatu/espiritu-santo/ss-president-coolidge/,97,-15.5291,167.226,Yes
+14,"Big Brother",Africa,Egypt,https://diveintolife.blog/brother-islands-egypt-red-sea/,97,26.3118,34.8435,Yes
+15,"Tiputa Pass",Oceania,Polynesia,https://www.spotmydive.com/en/travel/the-pass-of-tiputa-one-of-the-best-diving-destinations-in-the-world,97,-14.9729,-147.629,Yes
+16,"Ras Mohammed",Africa,Egypt,https://www.padi.com/diving-in/ras-mohamed/,97,27.726,34.2593,Yes
+17,"Great white wall",Oceania,Fijii,https://www.diveplanit.com/dive-site/great-white-wall/,97,-16.7754,179.899,Yes
+18,"Gordon`s Rock",America,Ecuador,https://www.scubaiguana.com/diving/dive-sites/gordon-rocks/,97,-0.566352,-90.1416,Yes
+19,"Osprey reef",Oceania,Australia,https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php,97,-13.9133,146.636,Yes
+20,"Bloody bay wall",America,"Cayman Islands (UK)",https://www.visitcaymanislands.com/en-ca/about-cayman/cayman-stories/november-2022/amazing-vertical-drop-off-caribbean,96,19.6597,-80.0731,Yes
+21,"Aliwal Shoal",Africa,"South Africa",https://www.aliwalshoaladventures.com/,96,-30.2496,30.8167,Yes
+22,"Darwin Island",America,Ecuador,https://galapagos-pro.com/en/galapagos-islands-diving/,96,1.67358,-91.9989,Yes
+23,"Sodwana Bay",Africa,"South Africa",https://coraldivers.co.za/,96,-27.5377,32.6796,Yes
+24,"Castle Rock, Komodo",Asia,Indonesia,https://www.notroublesjustbubbles.com/diving-destinations/indonesia/komodo/castle-rock,96,-8.438,119.552,Yes
+25,"Manta Reef",Africa,Mozanbique,https://www.goldenpalmsbeachresort.com/manta-reef-inhambane-mozambique/,96,-23.9809,35.5225,Yes
+26,"Sha`ab Rumi South",Africa,Sudan,https://royalevolution.com/diving-in-sudan/shaab-rumi/,96,19.9444,37.4084,Yes
+27,"Ulong Channel",Oceania,Palau,https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ulong-dives/151-ulong-channel,96,7.28535,134.249,Yes
+28,"Maaya Thila",Asia,Maldives,https://divebooker.com/maaya-thila-baz13804,96,4.09119,72.8622,Yes
+29,"Blue hole",Africa,Egypt,https://www.dahabdiverslodge.com/diving/diving-locations/bells-blue-hole/,96,28.572,34.5368,Yes
+30,"Verde Island",Asia,Philippines,https://asiadivers.com/blog/verde-island-passage/,95,13.5338,121.11,Yes
+31,"Poor Knights",Oceania,"New Zealand",https://www.zubludiving.com/destination/new-zealand/north-island/poor-knights-new-zealand,95,-35.4716,174.737,Yes
+32,"Blue Magic",Asia,Indonesia,https://diveconcepts.com/blue-magic-raja-ampat,95,-0.556334,130.691,Yes
+33,"Bikini atoll",Oceania,"Marshall Islands",https://www.bluewaterdivetravel.com/bikini-atoll-diving,95,11.4724,165.235,Yes
+34,"Palancar Bricks",America,Mexico,https://www.reefsofcozumel.com/palancarbricks.html,95,20.5913,-86.8903,Yes
+35,"South Point",Asia,Malaysia,https://www.sipadan.com/Sipadan/South-Point.php,95,4.12311,118.631,Yes
+36,"Darwin Arch",America,Galapagos,https://www.divephotoguide.com/underwater-photography-travel/article/iconic-dive-site-darwins-arch/,95,1.6724,-91.99,Yes
+37,"Jackson Reef",Africa,Egypt,https://www.redsea-diving.com/jackson-reef/,95,28.007,34.4729,Yes
+38,"Wolf Island",America,Galapagos,https://scubadiverlife.com/dive-site-wolf-island-galapagos/,95,1.3839,-91.8241,Yes
+39,"San Francisco Maru, Chuuk lagoon",Oceania,Micronesia,https://xray-mag.com/content/san-francisco-maru-wreck-chuuk-lagoon,95,7.60539,151.639,Yes
+40,"Magic Mountain, Raja Ampat",Asia,Indonesia,https://diveconcepts.com/magic-mountain-raja-ampat,94,-1.04999,130.464,Yes
+41,Bunaken,Asia,Indonesia,https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken,94,1.60943,124.753,Yes
+42,"Apo Reef ",Asia,Philippines,https://dugongdivecenter.com/v3/dive-sites/apo-reef-marine-park/,94,12.6757,120.475,Yes
+43,Daedalus,Africa,Egypt,https://www.padi.com/diving-in/daedalus-reef/,94,24.9505,35.8347,Yes
+44,Similans,Asia,Thailand,https://www.sunrise-divers.com/dive-sites/similan-islands/,94,8.5816,97.6545,Yes
+45,"Cod Hole",Oceania,Australia,https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/cod-hole/,94,-18.2442,147.722,Yes
+46,"Straits of the tiran",Africa,Egypt,https://www.padi.com/diving-in/straits-of-tiran/,94,28.0194,34.4713,Yes
+47,"Batu Bolong",Asia,Indonesia,https://diveconcepts.com/batu-bolong-reef-komodo,94,-8.53608,119.614,Yes
+48,"Puerto Galera",Asia,Philippines,https://www.bluewaterdivetravel.com/puerto-galera-diving,94,13.5363,120.972,Yes
+49,"Sipadan Drop off",Asia,Malaysia,https://www.scuba-junkie.com/diving-sipadan/,94,4.22032,118.68,Yes
+50,"Scotts head pinnacle",America,Dominica,https://discoverdominica.com/en/places/143/scotts-head-pinnacle,93,15.2181,-61.3702,Yes
+51,"Punta sur/Devils throat",America,Mexico,https://blog.scubatony.com/the-legendary-devils-throat-cozumel/,93,20.4685,-86.983,Yes
+52,"Mnemba Island",Africa,Tanzania,https://www.andbeyond.com/experiences/africa/discover-scuba-diving-at-mnemba-island/,93,-5.8193,39.3811,Yes
+53,"The Boiler",America,Mexico,https://divemagazine.com/destination-guides/mexico/revillagigedo-guadalupe,93,18.8402,-112.772,Yes
+54,"Fish Rock",Oceania,Australia,https://fishrock.com.au/,93,-30.939,153.1,Yes
+55,"Garuae pass",Oceania,Polynesia,https://topdive.com/the-garuae-pass-fakarava/,93,-16.0903,-145.716,Yes
+56,"Cannibal Rock",Asia,Indonesia,https://diveconcepts.com/cannibal-rock-komodo,93,-8.79144,119.668,Yes
+57,"The Zenobia",Europe,Cyprus,https://www.padi.com/dive-site/cyprus/the-zenobia-wreck/,93,34.885,33.74,Yes
+58,"Fujikawa Maru",Oceania,Micronesia,https://www.bluewaterdivetravel.com/truk-lagoon-diving,93,7.44681,151.707,Yes
+59,"Wakatobi, sulawesi",Asia,Indonesia,https://www.sulawesidivetrek.com/,93,-5.63134,123.89,Yes
+60,"Sangalaki Island",Asia,Indonesia,https://www.zubludiving.com/destination/indonesia/kalimantan/derawan-sangalaki-maratua,92,2.08581,118.395,Yes
+61,"East of Eden",Asia,Thailand,https://www.similandivingtours.com/dive-sites/similan-islands/east-of-eden,92,8.59454,97.6401,Yes
+62,Alcyone,America,"Costa Rica",https://divescover.com/dive-site/bajo-alcyone/24151,92,5.50576,-87.0257,Yes
+63,"Gran Central Station",Oceania,"Solomon islands",https://www.diveplanit.com/dive-site/grand-central-station-gizo/,92,-8.11246,156.851,Yes
+64,"Molokini crater wall",Oceania,USA,https://lahainadivers.com/scuba-charters/dive-backwall-molokini/,92,20.6442,-156.503,Yes
+65,"Malpelo Island",America,Colombia,https://blog.padi.com/dive-malpelo-island/,92,4.00647,-81.5938,Yes
+66,"Silfra, Thingvellir",Europe,Iceland,https://www.dive.is/dive-sites/silfra,92,64.2533,-21.1212,No
+67,"Blockship Tabarka",Europe,UK,http://www.scapaflowwrecks.com/wrecks/tabarka/diving.php,92,59.031,-3.4353,Yes
+68,"Dirty Rock, Cocos Island",America,"Costa Rica",https://divescover.com/dive-site/dirty-rock/24155,92,5.50892,-87.0413,Yes
+69,"Neptune`s arm",Africa,Mozanbique,https://reefbuilders.com/2016/04/14/scuba-diving-vamizi-island-mozmabique/,92,-11.0469,40.6733,Yes
+70,"Hin Muang",Asia,Thailand,https://lantadiver.com/diving-in-thailand/dive-sites-koh-lanta/diving-hin-daeng-hin-muang/,91,7.1584,98.8237,Yes
+71,"USS Saratoga, Bikini atoll",Oceania,"Marshall isles",https://masterliveaboards.com/diving-the-saratoga/,91,11.4766,165.358,Yes
+72,"Half moon wall",America,Belize,https://www.divessi.com/en/mydiveguide/divesite/63131,91,17.2032,-87.5362,Yes
+73,"Perpendicular wall",Oceania,Australia,https://www.diveplanit.com/dive-site/christmas-islands-perpendicular-wall/,91,-39.684,143.838,Yes
+74,"St Johns",Africa,Egypt,https://www.zubludiving.com/destination/red-sea/egypt-red-sea/st-johns-rocky-island-zabargad,91,23.6097,36.1958,Yes
+75,Cirkewwa,Europe,Malta,https://maltadives.com/sites/arch-cirkewwa/en,91,35.9885,14.3314,Yes
+76,"Roca partida",America,Mexico,https://www.divephotoguide.com/underwater-photography-travel/article/iconic-dive-site-roca-partida-socorro-revillagigedo-mexico,91,19.0135,-112.059,Yes
+77,"Stingray city",America,"Cayman islands",https://www.caymanturtledivers.com/dive-stingray-city-grand-cayman,91,19.3369,-81.3653,Yes
+78,"Pixie pinnacle",Oceania,Australia,https://www.tropicalnorthqueensland.org.au/listing/product/pixie-pinnacle-dive-site/,91,-14.6113,145.613,Yes
+79,Giannis,Africa,Egypt,https://divemagazine.com/scuba-diving-travel/dive-site-giannis-d,91,27.5759,33.9292,Yes
+80,"Peleliu express",Oceania,Palau,https://www.diversiondivetravel.com.au/g639/diving_peleliu_express.html,90,7.03838,134.272,Yes
+81,"Protea banks",Africa,"South Africa",https://proteabanks.co.za/,90,-30.8331,30.4833,Yes
+82,"Dos Amigos Pequeﾃｱa, Cocos island",America,"Costa Rica",https://divebooker.com/cocos-island-baz15004,90,5.53236,-87.1029,Yes
+83,"Rainbow reef",Oceania,Fiji,https://www.diveacademyfiji.com/for-divers,90,-16.7462,179.761,Yes
+84,Landslide,America,Galapagos,https://www.galapatours.com/highlights/el-derrumbe-diving-wolf,90,1.39644,-91.8231,Yes
+85,"Balls pyramid",Oceania,Australia,http://50greatdives.com/listing/balls-pyramid/,90,-31.6371,159.08,Yes
+86,"7 Mile reef",Africa,"South Africa",https://www.sodwana-bay.co.za/7-mile,90,-27.5389,33.0751,Yes
+87,"Los Roques",America,Venezuela,https://divescover.com/diving/venezuela/los-roques,90,11.8394,-66.7704,Yes
+88,"Canyon, Thomas reef",Africa,Egypt,https://www.padi.com/dive-site/egypt/canyon-2/,90,28.5529,34.525,Yes
+89,"Julian Rocks",Oceania,Australia,https://www.byronbaydivecentre.com.au/dive-sites/,90,-28.611,153.629,Yes
+90,"Holmes reef",Oceania,Australia,https://www.tropicalnorthqueensland.org.au/listing/product/holmes-reef-dive-site/,89,-16.4492,148.001,Yes
+91,"Jardines de la reina",America,Cuba,https://www.padi.com/diving-in/jardines-de-la-reina/,89,20.8341,-78.9162,Yes
+92,"Shark alley",America,"Cayman island",https://www.shaggysdiving.com/cayman-shark-diving/,89,19.3905,-81.3397,Yes
+93,"Pedras secas",America,Brazil,https://www.divessi.com/en/mydiveguide/divesite/64548,89,-3.85295,-32.3664,Yes
+94,"Split Rock",Oceania,Fiji,https://fiji-savusavu.com/activities/diving/,89,-16.8052,179.29,Yes
+95,"Barra Reef ",Africa,Mozanbique,https://www.barrareefdivers.co.za/diving,89,-23.7348,35.5419,Yes
+96,"Aldabra atoll",Africa,Seychelles,https://www.zubludiving.com/destination/seychelles/outer-islands/aldabra-astove-cosmoledo,89,-9.31376,46.3429,Yes
+97,"Paradise point",Oceania,"Papua New Guinea",https://www.originaldiving.com/australasia-pacific-islands/papua-new-guinea/dive-milne-bay,89,-10.386,150.692,Yes
+98,Cathedrale,Oceania,"France (New caledonia)",https://worldadventuredivers.com/new-caledonia/,89,-20.6834,164.949,Yes
+99,"Fesdhoo lagoon",Asia,Maldives,https://www.zubludiving.com/articles/zublu-insights/best-atolls-for-scuba-diving-in-the-maldives,89,4.00768,72.8095,Yes
